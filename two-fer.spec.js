@@ -1,3 +1,4 @@
+'use strict';
 
 var TwoFer = require('./two-fer');
 
